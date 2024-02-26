@@ -104,7 +104,7 @@ class RoomBooking:
         scroll_y.config(command=self.Room_Detail_table.yview)
 
 
-        self.Room_Detail_table.heading("Room Number","Ro")
+        self.Room_Detail_table.heading("Room Number",)
 
 
 
